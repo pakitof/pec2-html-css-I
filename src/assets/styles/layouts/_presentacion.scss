@@ -2,6 +2,11 @@
     margin-bottom: 100px;
 }
 
+.presentacion-articulo:last-child {
+    margin-bottom: 100px;
+}
+
+
 .contenido-presentacion {
   padding: 50px 100px 0 100px;
   @media (max-width: 850px) {
@@ -17,6 +22,7 @@
   display: block;
   max-width: 100%;
 }
+
 .anular-margen-inferior {
     margin-bottom: 0;
 }
