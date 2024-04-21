@@ -2,15 +2,30 @@
 
 <html>
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" type="text/css" href="./assets/styles/main.scss"><!-- do not remove this line! -->
-    <link rel="stylesheet" href="../node_modules/@fortawesome/fontawesome-free/css/all.min.css">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" type="text/css" href="./assets/styles/main.scss" />
+    <!-- do not remove this line! -->
+    <link
+      rel="stylesheet"
+      href="../node_modules/@fortawesome/fontawesome-free/css/all.min.css"
+    />
     <title>Stopa</title>
   </head>
   <body>
-    
     <include src="views/menu.html"></include>
 
+    <article class="mi-articulo">
+      <img src="./assets/images/" alt="Descripción de la imagen" />
+      <div class="contenido">
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in ex
+          turpis. Integer vitae tincidunt quam, at venenatis libero.
+        </p>
+        <button>Leer más</button>
+      </div>
+    </article>
+
+    <include src="views/footer.html"></include>
   </body>
 </html>
