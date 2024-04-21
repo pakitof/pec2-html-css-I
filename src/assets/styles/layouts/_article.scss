@@ -24,10 +24,10 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  align-items: flex-start;
 }
 
 .articulo-btn {
-  width: 200px;
   border: none;
   background-color: antiquewhite;
 
@@ -58,4 +58,5 @@
 .articulo-enlace {
     color: rgb(0, 0, 0);
     text-decoration: none;
+    padding: 5px 50px;
 }
