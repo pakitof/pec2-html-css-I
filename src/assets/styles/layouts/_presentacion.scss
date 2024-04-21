@@ -3,11 +3,10 @@
 }
 
 .contenido-presentacion {
-  padding: 50px 100px;
+  padding: 50px 100px 0 100px;
   @media (max-width: 850px) {
     padding: 50px 20px;
   }
-  margin-bottom: 50px;
 }
 
 .presentacion-text {
@@ -17,4 +16,7 @@
 .presentacion-imagen {
   display: block;
   max-width: 100%;
+}
+.anular-margen-inferior {
+    margin-bottom: 0;
 }
