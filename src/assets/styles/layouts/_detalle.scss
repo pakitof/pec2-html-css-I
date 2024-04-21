@@ -1,0 +1,26 @@
+.detalle-articulo {
+  display: flex;
+  padding: 50px 100px;
+  flex-direction: column;
+}
+
+.detalle-articulo-h1 {
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.detalle-articulo-parrafo {
+  margin-bottom: 20px;
+}
+
+.detalle-articulo-list-titulo {
+  margin-bottom: 10px;
+}
+
+.detalle-articulo-list {
+    padding-left: 50px;
+}
+
+.detalle-articulo-list-item {
+    margin-bottom: 20px;
+}
