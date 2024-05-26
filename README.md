@@ -25,7 +25,7 @@ npm run build
 ```
 
 ### Enlace del repositorio remoto
-<a href="https://github.com/pakitof/pec1-html-css-I">Repositorio GitHub</a>
+<a href="https://github.com/pakitof/pec2-html-css-I?tab=readme-ov-file">Repositorio GitHub</a>
 
 ### Enlace a la url del proyecto
 <a href="https://fabulous-muffin-96afa5.netlify.app/">Pagina web del proyecto</a>
